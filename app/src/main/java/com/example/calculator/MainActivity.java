@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
 
     EditText display;
 
+    int x;
+
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
