@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
     EditText display;
 
-    int x;
+   //changed
 
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
